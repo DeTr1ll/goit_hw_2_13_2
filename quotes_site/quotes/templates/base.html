@@ -1,0 +1,28 @@
+<!-- quotes/templates/quotes/base.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Quotes Site{% endblock %}</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Quotes Site</h1>
+        <nav>
+            <a href="{% url 'home' %}">Главная</a>
+            <a href="{% url 'add_author' %}">Добавить автора</a>
+            <a href="{% url 'add_quote' %}">Добавить цитату</a>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Quotes Site</p>
+    </footer>
+</body>
+</html>

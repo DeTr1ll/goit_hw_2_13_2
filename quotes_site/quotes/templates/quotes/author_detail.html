@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ author.name }}</title>
+</head>
+<body>
+    <h1>Информация об авторе: {{ author.fullname }}</h1>
+    <p><strong>Биография:</strong> {{ author.description }}</p>
+    <p><strong>Место рождения:</strong> {{ author.born_location }}</p>
+    <p><strong>Дата рождения:</strong> {{ author.born_date }}</p>
+    <h2>Цитаты:</h2>
+    <ul>
+        {% for quote in quotes %}
+            <li>
+                <blockquote>"{{ quote.quote }}"</blockquote>
+            </li>
+        {% empty %}
+            <li>Цитаты не найдены.</li>
+        {% endfor %}
+    </ul>
+    <a href="{% url 'home' %}">Назад</a>
+</body>
+</html>

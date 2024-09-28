@@ -1,0 +1,1218 @@
+[{
+  "_id": {
+    "$oid": "66ebe585aeaad59ac4e26a32"
+  },
+  "fullname": "Albert Einstein",
+  "born_date": "March 14, 1879",
+  "born_location": "in Ulm, Germany",
+  "description": "In 1879, Albert Einstein was born in Ulm, Germany. He completed his Ph.D. at the University of Zurich by 1909. His 1905 paper explaining the photoelectric effect, the basis of electronics, earned him the Nobel Prize in 1921. His first paper on Special Relativity Theory, also published in 1905, changed the world. After the rise of the Nazi party, Einstein made Princeton his permanent home, becoming a U.S. citizen in 1940. Einstein, a pacifist during World War I, stayed a firm proponent of social justice and responsibility. He chaired the Emergency Committee of Atomic Scientists, which organized to alert the public to the dangers of atomic warfare.At a symposium, he advised: \"In their struggle for the ethical good, teachers of religion must have the stature to give up the doctrine of a personal God, that is, give up that source of fear and hope which in the past placed such vast power in the hands of priests. In their labors they will have to avail themselves of those forces which are capable of cultivating the Good, the True, and the Beautiful in humanity itself. This is, to be sure a more difficult but an incomparably more worthy task . . . \" (\"Science, Philosophy and Religion, A Symposium,\" published by the Conference on Science, Philosophy and Religion in their Relation to the Democratic Way of Life, Inc., New York, 1941). In a letter to philosopher Eric Gutkind, dated Jan. 3, 1954, Einstein stated: \"The word god is for me nothing more than the expression and product of human weaknesses, the Bible a collection of honorable, but still primitive legends which are nevertheless pretty childish. No interpretation no matter how subtle can (for me) change this,\" (The Guardian, \"Childish superstition: Einstein's letter makes view of religion relatively clear,\" by James Randerson, May 13, 2008). D. 1955.While best known for his mass–energy equivalence formula E = mc2 (which has been dubbed \"the world's most famous equation\"), he received the 1921 Nobel Prize in Physics \"for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\". The latter was pivotal in establishing quantum theory.Einstein thought that Newtonion mechanics was no longer enough to reconcile the laws of classical mechanics with the laws of the electromagnetic field. This led to the development of his special theory of relativity. He realized, however, that the principle of relativity could also be extended to gravitational fields, and with his subsequent theory of gravitation in 1916, he published a paper on the general theory of relativity. He continued to deal with problems of statistical mechanics and quantum theory, which led to his explanations of particle theory and the motion of molecules. He also investigated the thermal properties of light which laid the foundation of the photon theory of light.He was visiting the United States when Adolf Hitler came to power in 1933 and did not go back to Germany. On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential development of \"extremely powerful bombs of a new type\" and recommending that the U.S. begin similar research. This eventually led to what would become the Manhattan Project. Einstein supported defending the Allied forces, but largely denounced the idea of using the newly discovered nuclear fission as a weapon. Later, with Bertrand Russell, Einstein signed the Russell–Einstein Manifesto, which highlighted the danger of nuclear weapons."
+},
+{
+  "_id": {
+    "$oid": "66ebe585aeaad59ac4e26a33"
+  },
+  "fullname": "Steve Martin",
+  "born_date": "August 14, 1945",
+  "born_location": "in Waco, Texas, The United States",
+  "description": "Stephen Glenn \"Steve\" Martin is an American actor, comedian, writer, playwright, producer, musician, and composer. He was raised in Southern California in a Baptist family, where his early influences were working at Disneyland and Knott's Berry Farm and working magic and comedy acts at these and other smaller venues in the area. His ascent to fame picked up when he became a writer for the Smothers Brothers Comedy Hour, and later became a frequent guest on the Tonight Show.In the 1970s, Martin performed his offbeat, absurdist comedy routines before packed houses on national tours. In the 1980s, having branched away from stand-up comedy, he became a successful actor, playwright, and juggler, and eventually earned Emmy, Grammy, and American Comedy awards."
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0ee"
+  },
+  "fullname": "Steve Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0ef"
+  },
+  "fullname": "Eleanor Roosevelt"
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0f0"
+  },
+  "fullname": "Thomas A. Edison"
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0f1"
+  },
+  "fullname": "Marilyn Monroe"
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0f2"
+  },
+  "fullname": "Jane Austen"
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0f3"
+  },
+  "fullname": "J.K. Rowling"
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0f4"
+  },
+  "fullname": "Albert Einstein"
+},
+{
+  "_id": {
+    "$oid": "66ee7c71b0430a8b0056f0f5"
+  },
+  "fullname": "André Gide"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0f6"
+  },
+  "fullname": "Allen Saunders"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0f7"
+  },
+  "fullname": "Mark Twain"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0f8"
+  },
+  "fullname": "Dr. Seuss"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0f9"
+  },
+  "fullname": "Elie Wiesel"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0fa"
+  },
+  "fullname": "Douglas Adams"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0fb"
+  },
+  "fullname": "Bob Marley"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0fc"
+  },
+  "fullname": "Friedrich Nietzsche"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0fd"
+  },
+  "fullname": "Jim Henson"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0fe"
+  },
+  "fullname": "Pablo Neruda"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f0ff"
+  },
+  "fullname": "Mother Teresa"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f100"
+  },
+  "fullname": "Ralph Waldo Emerson"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f101"
+  },
+  "fullname": "Garrison Keillor"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f102"
+  },
+  "fullname": "Jorge Luis Borges"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f103"
+  },
+  "fullname": "George Eliot"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f104"
+  },
+  "fullname": "William Nicholson"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f105"
+  },
+  "fullname": "Charles M. Schulz"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f106"
+  },
+  "fullname": "James Baldwin"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f107"
+  },
+  "fullname": "George R.R. Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f108"
+  },
+  "fullname": "C.S. Lewis"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f109"
+  },
+  "fullname": "Martin Luther King Jr."
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f10a"
+  },
+  "fullname": "George Bernard Shaw"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f10b"
+  },
+  "fullname": "Helen Keller"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f10c"
+  },
+  "fullname": "Ernest Hemingway"
+},
+{
+  "_id": {
+    "$oid": "66ee7c72b0430a8b0056f10d"
+  },
+  "fullname": "Haruki Murakami"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f10e"
+  },
+  "fullname": "Stephenie Meyer"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f10f"
+  },
+  "fullname": "Alexandre Dumas-fils"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f110"
+  },
+  "fullname": "J.R.R. Tolkien"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f111"
+  },
+  "fullname": "Suzanne Collins"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f112"
+  },
+  "fullname": "Charles Bukowski"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f113"
+  },
+  "fullname": "W.C. Fields"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f114"
+  },
+  "fullname": "Ayn Rand"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f115"
+  },
+  "fullname": "John Lennon"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f116"
+  },
+  "fullname": "J.D. Salinger"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f117"
+  },
+  "fullname": "George Carlin"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f118"
+  },
+  "fullname": "Terry Pratchett"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f119"
+  },
+  "fullname": "Alfred Tennyson"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f11a"
+  },
+  "fullname": "Harper Lee"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f11b"
+  },
+  "fullname": "Jimi Hendrix"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f11c"
+  },
+  "fullname": "J.M. Barrie"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f11d"
+  },
+  "fullname": "Khaled Hosseini"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f11e"
+  },
+  "fullname": "E.E. Cummings"
+},
+{
+  "_id": {
+    "$oid": "66ee7c73b0430a8b0056f11f"
+  },
+  "fullname": "Madeleine L'Engle"
+},
+{
+  "_id": {
+    "$oid": "66ee7cde2b077cfad5f6e71f"
+  },
+  "fullname": "Steve Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e720"
+  },
+  "fullname": "Eleanor Roosevelt"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e721"
+  },
+  "fullname": "Thomas A. Edison"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e722"
+  },
+  "fullname": "Marilyn Monroe"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e723"
+  },
+  "fullname": "Jane Austen"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e724"
+  },
+  "fullname": "J.K. Rowling"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e725"
+  },
+  "fullname": "Albert Einstein"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e726"
+  },
+  "fullname": "André Gide"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e727"
+  },
+  "fullname": "Allen Saunders"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e728"
+  },
+  "fullname": "Mark Twain"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e729"
+  },
+  "fullname": "Dr. Seuss"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e72a"
+  },
+  "fullname": "Elie Wiesel"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e72b"
+  },
+  "fullname": "Douglas Adams"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e72c"
+  },
+  "fullname": "Bob Marley"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e72d"
+  },
+  "fullname": "Friedrich Nietzsche"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e72e"
+  },
+  "fullname": "Jim Henson"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e72f"
+  },
+  "fullname": "Pablo Neruda"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e730"
+  },
+  "fullname": "Mother Teresa"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e731"
+  },
+  "fullname": "Ralph Waldo Emerson"
+},
+{
+  "_id": {
+    "$oid": "66ee7cdf2b077cfad5f6e732"
+  },
+  "fullname": "Garrison Keillor"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e733"
+  },
+  "fullname": "Jorge Luis Borges"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e734"
+  },
+  "fullname": "George Eliot"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e735"
+  },
+  "fullname": "William Nicholson"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e736"
+  },
+  "fullname": "Charles M. Schulz"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e737"
+  },
+  "fullname": "James Baldwin"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e738"
+  },
+  "fullname": "George R.R. Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e739"
+  },
+  "fullname": "C.S. Lewis"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e73a"
+  },
+  "fullname": "Martin Luther King Jr."
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e73b"
+  },
+  "fullname": "George Bernard Shaw"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e73c"
+  },
+  "fullname": "Helen Keller"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e73d"
+  },
+  "fullname": "Ernest Hemingway"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e73e"
+  },
+  "fullname": "Haruki Murakami"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e73f"
+  },
+  "fullname": "Stephenie Meyer"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e740"
+  },
+  "fullname": "Alexandre Dumas-fils"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e741"
+  },
+  "fullname": "J.R.R. Tolkien"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e742"
+  },
+  "fullname": "Suzanne Collins"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e743"
+  },
+  "fullname": "Charles Bukowski"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e744"
+  },
+  "fullname": "W.C. Fields"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e745"
+  },
+  "fullname": "Ayn Rand"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e746"
+  },
+  "fullname": "John Lennon"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e747"
+  },
+  "fullname": "J.D. Salinger"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e748"
+  },
+  "fullname": "George Carlin"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e749"
+  },
+  "fullname": "Terry Pratchett"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e74a"
+  },
+  "fullname": "Alfred Tennyson"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce02b077cfad5f6e74b"
+  },
+  "fullname": "Harper Lee"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce12b077cfad5f6e74c"
+  },
+  "fullname": "Jimi Hendrix"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce12b077cfad5f6e74d"
+  },
+  "fullname": "J.M. Barrie"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce12b077cfad5f6e74e"
+  },
+  "fullname": "Khaled Hosseini"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce12b077cfad5f6e74f"
+  },
+  "fullname": "E.E. Cummings"
+},
+{
+  "_id": {
+    "$oid": "66ee7ce12b077cfad5f6e750"
+  },
+  "fullname": "Madeleine L'Engle"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5882"
+  },
+  "fullname": "Steve Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5883"
+  },
+  "fullname": "Eleanor Roosevelt"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5884"
+  },
+  "fullname": "Thomas A. Edison"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5885"
+  },
+  "fullname": "Marilyn Monroe"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5886"
+  },
+  "fullname": "Jane Austen"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5887"
+  },
+  "fullname": "J.K. Rowling"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5888"
+  },
+  "fullname": "Albert Einstein"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c5889"
+  },
+  "fullname": "André Gide"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c588a"
+  },
+  "fullname": "Allen Saunders"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c588b"
+  },
+  "fullname": "Mark Twain"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c588c"
+  },
+  "fullname": "Dr. Seuss"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c588d"
+  },
+  "fullname": "Elie Wiesel"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2cf767ddb3689c588e"
+  },
+  "fullname": "Douglas Adams"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c588f"
+  },
+  "fullname": "Bob Marley"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5890"
+  },
+  "fullname": "Friedrich Nietzsche"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5891"
+  },
+  "fullname": "Jim Henson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5892"
+  },
+  "fullname": "Pablo Neruda"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5893"
+  },
+  "fullname": "Mother Teresa"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5894"
+  },
+  "fullname": "Ralph Waldo Emerson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5895"
+  },
+  "fullname": "Garrison Keillor"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5896"
+  },
+  "fullname": "Jorge Luis Borges"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5897"
+  },
+  "fullname": "George Eliot"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5898"
+  },
+  "fullname": "William Nicholson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c5899"
+  },
+  "fullname": "Charles M. Schulz"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c589a"
+  },
+  "fullname": "James Baldwin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c589b"
+  },
+  "fullname": "George R.R. Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c589c"
+  },
+  "fullname": "C.S. Lewis"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c589d"
+  },
+  "fullname": "Martin Luther King Jr."
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c589e"
+  },
+  "fullname": "George Bernard Shaw"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c589f"
+  },
+  "fullname": "Helen Keller"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c58a0"
+  },
+  "fullname": "Ernest Hemingway"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c58a1"
+  },
+  "fullname": "Haruki Murakami"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c58a2"
+  },
+  "fullname": "Stephenie Meyer"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c58a3"
+  },
+  "fullname": "Alexandre Dumas-fils"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c58a4"
+  },
+  "fullname": "J.R.R. Tolkien"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2df767ddb3689c58a5"
+  },
+  "fullname": "Suzanne Collins"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58a6"
+  },
+  "fullname": "Charles Bukowski"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58a7"
+  },
+  "fullname": "W.C. Fields"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58a8"
+  },
+  "fullname": "Ayn Rand"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58a9"
+  },
+  "fullname": "John Lennon"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58aa"
+  },
+  "fullname": "J.D. Salinger"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58ab"
+  },
+  "fullname": "George Carlin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58ac"
+  },
+  "fullname": "Terry Pratchett"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58ad"
+  },
+  "fullname": "Alfred Tennyson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58ae"
+  },
+  "fullname": "Harper Lee"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58af"
+  },
+  "fullname": "Jimi Hendrix"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58b0"
+  },
+  "fullname": "J.M. Barrie"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58b1"
+  },
+  "fullname": "Khaled Hosseini"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58b2"
+  },
+  "fullname": "E.E. Cummings"
+},
+{
+  "_id": {
+    "$oid": "66ee7d2ef767ddb3689c58b3"
+  },
+  "fullname": "Madeleine L'Engle"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166a6"
+  },
+  "fullname": "Steve Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166a7"
+  },
+  "fullname": "Eleanor Roosevelt"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166a8"
+  },
+  "fullname": "Thomas A. Edison"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166a9"
+  },
+  "fullname": "Marilyn Monroe"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166aa"
+  },
+  "fullname": "Jane Austen"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166ab"
+  },
+  "fullname": "J.K. Rowling"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166ac"
+  },
+  "fullname": "Albert Einstein"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166ad"
+  },
+  "fullname": "André Gide"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166ae"
+  },
+  "fullname": "Allen Saunders"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166af"
+  },
+  "fullname": "Mark Twain"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166b0"
+  },
+  "fullname": "Dr. Seuss"
+},
+{
+  "_id": {
+    "$oid": "66ee7d50306b5a28b00166b1"
+  },
+  "fullname": "Elie Wiesel"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b2"
+  },
+  "fullname": "Douglas Adams"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b3"
+  },
+  "fullname": "Bob Marley"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b4"
+  },
+  "fullname": "Friedrich Nietzsche"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b5"
+  },
+  "fullname": "Jim Henson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b6"
+  },
+  "fullname": "Pablo Neruda"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b7"
+  },
+  "fullname": "Mother Teresa"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b8"
+  },
+  "fullname": "Ralph Waldo Emerson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166b9"
+  },
+  "fullname": "Garrison Keillor"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166ba"
+  },
+  "fullname": "Jorge Luis Borges"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166bb"
+  },
+  "fullname": "George Eliot"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166bc"
+  },
+  "fullname": "William Nicholson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166bd"
+  },
+  "fullname": "Charles M. Schulz"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166be"
+  },
+  "fullname": "James Baldwin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166bf"
+  },
+  "fullname": "George R.R. Martin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c0"
+  },
+  "fullname": "C.S. Lewis"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c1"
+  },
+  "fullname": "Martin Luther King Jr."
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c2"
+  },
+  "fullname": "George Bernard Shaw"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c3"
+  },
+  "fullname": "Helen Keller"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c4"
+  },
+  "fullname": "Ernest Hemingway"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c5"
+  },
+  "fullname": "Haruki Murakami"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c6"
+  },
+  "fullname": "Stephenie Meyer"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c7"
+  },
+  "fullname": "Alexandre Dumas-fils"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c8"
+  },
+  "fullname": "J.R.R. Tolkien"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166c9"
+  },
+  "fullname": "Suzanne Collins"
+},
+{
+  "_id": {
+    "$oid": "66ee7d51306b5a28b00166ca"
+  },
+  "fullname": "Charles Bukowski"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166cb"
+  },
+  "fullname": "W.C. Fields"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166cc"
+  },
+  "fullname": "Ayn Rand"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166cd"
+  },
+  "fullname": "John Lennon"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166ce"
+  },
+  "fullname": "J.D. Salinger"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166cf"
+  },
+  "fullname": "George Carlin"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d0"
+  },
+  "fullname": "Terry Pratchett"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d1"
+  },
+  "fullname": "Alfred Tennyson"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d2"
+  },
+  "fullname": "Harper Lee"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d3"
+  },
+  "fullname": "Jimi Hendrix"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d4"
+  },
+  "fullname": "J.M. Barrie"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d5"
+  },
+  "fullname": "Khaled Hosseini"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d6"
+  },
+  "fullname": "E.E. Cummings"
+},
+{
+  "_id": {
+    "$oid": "66ee7d52306b5a28b00166d7"
+  },
+  "fullname": "Madeleine L'Engle"
+}]
